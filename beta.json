@@ -6,12 +6,12 @@
     "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/a7f6afa4bc8d5f95783ac38c458c4583995588bb/app/src/main/res/raw/changelog.md"
   },
   "uninstaller": {
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-uninstaller-20190328.zip"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"
   },
   "magisk": {
-    "version": "19.0",
-    "versionCode": "19000",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-v19.0.zip",
+    "version": "18.1",
+    "versionCode": "18010",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/6378e4404ceb89979d367bcc4687d673aa02c927/notes.md",
     "md5": "e867e1c75d7e93db99a55681e11c02e1"
   }
